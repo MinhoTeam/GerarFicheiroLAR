@@ -1,0 +1,2 @@
+# GerarFicheiroLAR
+GerarFicheiroLAR
